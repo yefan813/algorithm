@@ -1,5 +1,7 @@
 package com.yefan.demo.huiwen;
 
+import com.yefan.demo.ListNode;
+
 /**
  * 时间复杂度O(n)
  *

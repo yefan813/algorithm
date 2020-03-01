@@ -1,0 +1,11 @@
+# Created by .ignore support plugin (hsz.mobi)
+!/algorithm.iml
+!/.idea/
+!/.idea/
+/target/classes/META-INF/algorithm.kotlin_module
+/target/classes/com/yefan/demo/ListNode.class
+/target/classes/com/yefan/demo/List/ReverseList.class
+/target/test-classes/com/yefan/demo/List/ReverseListTest.class
+*.class
+!/.idea/
+!/.idea/inspectionProfiles/

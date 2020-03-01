@@ -1,8 +1,8 @@
-package com.yefan.demo.huiwen;
+package com.yefan.demo;
 
 public class ListNode {
-    String data;
-    ListNode next;
+    public String data;
+    public ListNode next;
 
     public String getData() {
         return data;

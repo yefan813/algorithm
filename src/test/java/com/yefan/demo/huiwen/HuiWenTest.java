@@ -1,5 +1,6 @@
 package com.yefan.demo.huiwen;
 
+import com.yefan.demo.ListNode;
 import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;
